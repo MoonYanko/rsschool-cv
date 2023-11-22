@@ -6,8 +6,8 @@
 
 3. ## I want to working frontend-developer. I passed the following courses:
    - “Fundamentals of HTML and CSS” from the University of Moscow Institute of Physics and Technology, Yandex and E-Learning Development Fund
-   - HTML and CSS on Code Basics
-   - Stage 0 from RSS School
+   - "HTML and CSS" on Code Basics
+   - "JS / Front-end. Stage 0" from RSS School
 
 4. ## **Skills** 
     - #HTML
