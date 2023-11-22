@@ -10,8 +10,8 @@
    - "JS / Front-end. Stage 0" from RSS School
 
 4. ## **Skills** 
-    - #HTML
-    - #CSS
+    - HTML
+    - CSS
 
 5. ## **Code**
 I haven't code examples
